@@ -1,0 +1,14 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "title": "Novo projeto",
+            "tasks": []
+        },
+        {
+            "id": "2",
+            "title": "Novo projeto",
+            "tasks": []
+        }
+    ]
+}
